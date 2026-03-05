@@ -1,0 +1,5 @@
+.venv/
+*/processor*/
+*/postProcessing/
+*.foam
+*.log
